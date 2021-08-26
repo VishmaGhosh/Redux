@@ -1,0 +1,126 @@
+{
+  "item": [
+    {
+      "id": 0,
+      "desc": "jeans",
+      "jeansList": [
+        {
+          "id": "js1",
+          "color": "black",
+          "price": 750,
+          "img": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        },
+        {
+          "id": "js2",
+          "color": "bule",
+          "price": 520,
+          "img": "https://images.unsplash.com/photo-1555689502-c4b22d76c56f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        },
+        {
+          "id": "js3",
+          "color": "red",
+          "price": 820,
+          "img": "https://images.unsplash.com/photo-1454720503269-3a35c21bebc6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1508&q=80"
+        },
+        {
+          "id": "js4",
+          "color": "yellow",
+          "price": 790,
+          "img": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        },
+        {
+          "id": "js5",
+          "color": "red",
+          "price": 740,
+          "img": "https://images.unsplash.com/photo-1609324120004-364275e0ad05?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "id": "js6",
+          "color": "red",
+          "price": 503,
+          "img": "https://images.unsplash.com/photo-1599447541321-50706296bb7c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=335&q=80"
+        },
+        {
+          "id": "js7",
+          "color": "red",
+          "price": 870,
+          "img": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "desc": "T-shirt",
+      "TshirtList": [
+        {
+          "id": 1,
+          "color": "black",
+          "price": 350,
+          "img": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "id": 2,
+          "price": 270,
+          "color": "black",
+          "img": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        },
+        {
+          "id": 3,
+          "color": "black",
+          "price": 340,
+          "img": "https://images.unsplash.com/photo-1521498542256-5aeb47ba2b36?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "price": 320,
+          "img": "https://images.unsplash.com/photo-1621951753015-740c699ab970?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+        },
+        {
+          "id": 5,
+          "color": "black",
+          "price": 400,
+          "img": "https://images.unsplash.com/photo-1590999659195-e64a988eaf4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=334&q=80"
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "cartData": {
+        "id": "js1",
+        "color": "black",
+        "price": 750,
+        "img": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+      },
+      "id": 1
+    },
+    {
+      "cartData": {
+        "id": "js6",
+        "color": "red",
+        "price": 503,
+        "img": "https://images.unsplash.com/photo-1599447541321-50706296bb7c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=335&q=80"
+      },
+      "id": 2
+    },
+    {
+      "cartData": {
+        "id": 1,
+        "color": "black",
+        "price": 350,
+        "img": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
+      },
+      "id": 3
+    },
+    {
+      "cartData": {
+        "id": "js1",
+        "color": "black",
+        "price": 750,
+        "img": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+      },
+      "id": 4
+    }
+  ]
+}
